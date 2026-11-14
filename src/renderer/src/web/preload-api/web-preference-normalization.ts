@@ -94,6 +94,8 @@ export function mergeHostWebUIState(
     workspaceHostOrder: local.workspaceHostOrder,
     sidebarOpen: local.sidebarOpen,
     activityBarPosition: local.activityBarPosition,
+    activityBarOrder: local.activityBarOrder,
+    activityBarHidden: local.activityBarHidden,
     showAgentModels: local.showAgentModels !== false,
     agentsVisibleHostIds: local.agentsVisibleHostIds,
     agentsFilterRepoIds: local.agentsFilterRepoIds,
