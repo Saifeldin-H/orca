@@ -25743,5 +25743,11 @@
       "title": "Report a freeze",
       "uncheckAttachments": "Uncheck \"Attach saved freeze report and diagnostic logs\" and try again, or copy the details."
     }
+  },
+  "activityBar": {
+    "moveUp": "Move up",
+    "moveDown": "Move down",
+    "hide": "Hide",
+    "show": "Show {{name}}"
   }
 }
